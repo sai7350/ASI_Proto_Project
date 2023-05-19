@@ -45,7 +45,7 @@
                 an unexplained fire, but the surviving structures are now maintained as a tourist site.
             </div>
         </div>
-        <div class="sticky bottom-5 pb-10">
+        <div class="sticky bottom-5 pb-10 px-2 ">
             <div class="mx-auto bg-black rounded-full md:w-3/4 px-2 ">
                 <audio controls class="mx-auto w-full">
                     <source src="../assets/ShaniwarWadaImages/Audio.mp3">
