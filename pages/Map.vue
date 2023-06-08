@@ -7,8 +7,10 @@
     </head>
   </div>
   <!-- <div style="height: 100vh;" id="map"></div> -->
-  <div class="z-0" id="map" style="height:80vh"></div>
-  <div class="w-full z-20 fixed mb-3 bottom-16">
+  <div class="p-4 bg-red-500 >
+  <div class="z-0" id="map" style="height:70vh"></div>
+  </div>
+  <div class="w-full z-20 fixed mb-3 bottom-24">
     <div class="w-6/12 py-2 text-center mx-auto bg-white text-black  text-lg font-bold">
       Click on the Blue tag to Start Tour
     </div>
@@ -70,3 +72,4 @@ if (process.client) {
 
 }
 </script>
+
