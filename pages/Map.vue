@@ -12,7 +12,7 @@
   </div>
   <div class="w-full z-20 fixed mb-3 bottom-24">
     <div class="w-6/12 py-2 text-center mx-auto bg-white text-black  text-lg font-bold">
-      Click on the Blue tag to Start Tour
+      Click on the Blue tag to Start  Tour
     </div>
 
   </div>
