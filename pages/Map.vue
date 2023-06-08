@@ -3,16 +3,16 @@
 
     <head>
       <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" /> 
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
     </head>
   </div>
   <!-- <div style="height: 100vh;" id="map"></div> -->
-  <div class="p-4 bg-red-500" >
-  <div class="z-0" id="map" style="height:70vh"></div>
+  <div class="p-2 z-0 bg-red-500">
+    <div class="z-0" id="map" style="height:70vh"></div>
   </div>
   <div class="w-full z-20 fixed mb-3 bottom-24">
     <div class="w-6/12 py-2 text-center mx-auto bg-white text-black  text-lg font-bold">
-      Click on the Blue tag to Start  Tour
+      Click on the Blue tag to Start Tour
     </div>
 
   </div>
@@ -72,4 +72,3 @@ if (process.client) {
 
 }
 </script>
-
