@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="p-2 bg-red-500">
 
-        <div class="bg  bg-yellow-100 bg-no-repeat">
+        <div class="bg bg-yellow-100 bg-no-repeat">
             <div class="h-full ">
                 <div
                     class="hidden md:block space-y-17 h-full bg-gradient-to-r from-yellow-100/5 via-yellow-200/60 to-yellow-300/50 text-black">
@@ -82,9 +82,9 @@
 
         background-image: url(../assets/IndexImage/bgimg.jpg);
         height: 45vh;
-        width: 100vw;
-        background-size: 600px 100%;
-        background-position: center;
+        width: 96vw;
+        background-size: 100% 100%;
+        background-position: initial;
     }
 }
 
@@ -92,9 +92,8 @@
     .bg {
 
         background-image: url(../assets/IndexImage/bgimg.jpg);
-        height: 45vh;
         height: 100vh;
-        width: 100vw;
+        width: 97vw;
         background-position: center;
     }
 }
