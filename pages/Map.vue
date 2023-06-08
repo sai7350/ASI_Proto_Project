@@ -7,7 +7,7 @@
     </head>
   </div>
   <!-- <div style="height: 100vh;" id="map"></div> -->
-  <div class="p-4 bg-red-500 >
+  <div class="p-4 bg-red-500" >
   <div class="z-0" id="map" style="height:70vh"></div>
   </div>
   <div class="w-full z-20 fixed mb-3 bottom-24">
